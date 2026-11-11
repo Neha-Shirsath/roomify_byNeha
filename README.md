@@ -17,6 +17,7 @@
   </div>
 
   <h3 align="center">Roomify | AI-powered Architectural Visualization App</h3>
+[**Click here to view Roomify**](https://roomify-phi-six.vercel.app/)
 
 </div>
 
@@ -88,8 +89,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/roomify
-cd roomify
+git clone https://github.com/Neha-Shirsath/roomify_byNeha.git
+cd roomify_byNeha
 ```
 
 **Installation**
